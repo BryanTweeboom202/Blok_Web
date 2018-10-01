@@ -1,0 +1,97 @@
+body {
+    background-color: #3bd56b;
+}
+
+h1 {
+    color: white;
+    font-family: Nexaimport;
+    text-align: center;
+    margin-bottom: 1em;
+}
+
+h2 {
+    color: white;
+    font-family: Nexa_Lightimport;
+    text-align: center;
+    margin-bottom: 1em;
+}
+
+.Logotransavia {
+    margin: 0 auto;
+    width: 12.500em;
+    height: 8.250em;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+button {
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    border-radius: 25px;
+    width: 15.250em;
+    height: 3.125em;
+    background-color: #2900a0;
+    border-color: #2900a0;
+    color: white;
+    font-family: Nexaimport;
+    font-size: 1em;
+    border: solid, #2900a0;
+    border-style: none;
+}
+
+button:first-of-type {
+    margin-bottom: 1em;
+}
+
+@font-face {
+    font-family: Nexaimport;
+    src: url("Nexa.otf");
+}
+
+@font-face {
+    font-family: Nexa_Lightimport;
+    src: url("Nexa_Light.otf");
+}
+
+button:last-of-type {
+    margin-bottom: 2em;
+}
+
+button:hover {
+    background-color: #5e41b8;
+}
+
+img:first-of-type {
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+p {
+    color: white;
+    text-align: center;
+    font-size: 1em;
+    font-family: Nexa_Lightimport;
+    max-width: 100%;
+    padding-bottom: 0, 1250em;
+}
+
+hr {
+    width: 15.125em;
+    height: 0, 5em;
+    border-style: solid;
+    border-color: white;
+}
+
+.titel1 {
+    font-size: 0, 313em;
+    margin-bottom: 0;
+}
+
+
+
+--footer{width: 100%;
+height: 50px;
+background-color:white;}
